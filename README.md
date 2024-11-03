@@ -7,7 +7,10 @@ It only works if you initially navigate to that url (with your username), NOT ww
 Starting from the profile page will successfully remove the Feed button, 
 and navigating to notifications or search and back will not affect it. 
 This is for people like me who primarily want to post and check notifications, 
-and search for specific mutuals. 
+and search for specific mutuals.
+
+Installation instructions: 
+https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked
 
 Thanks for trying it out!
 - Alice <3
